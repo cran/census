@@ -1,0 +1,11 @@
+480998c7e4ca36c19af21444d00e481f *DESCRIPTION
+50dbd7e2dba9ab221c8eeae1edb1cd10 *LICENSE
+9cc6664d76145b51932d5370c3d86642 *NAMESPACE
+18020facb03bcf0b071a4369f09fb567 *R/getCensus.R
+0c32c66bb0367e25810dbd9acf0ac53d *README.md
+b60e092bd1842d74615f427e237910ff *build/vignette.rds
+4fa59fac591d80d0cee99ce7ad9dd4d4 *inst/doc/getting-started.R
+38fb7a1a08d2d17bb39ea32a0c1d1d98 *inst/doc/getting-started.Rmd
+8e53ff95284ac3acd756dc9a94602450 *inst/doc/getting-started.html
+992356dd47c27629bd509102b44905d0 *man/getCensus.Rd
+38fb7a1a08d2d17bb39ea32a0c1d1d98 *vignettes/getting-started.Rmd
